@@ -4,9 +4,7 @@ Num 1 + Num 2 = NumSum
 
 // Exercise 2: Check if a Number is Even or Odd
 
-num 
-
-If or else statment is even 
+check the number and run it through a if else statement. If the num is divisible by 2, else odd. 
 
 // Exercise 3: 
 Write pseudo code that will perform the following.    
@@ -16,6 +14,14 @@ b) Calculate the average of the five numbers.
 c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
 d) Write out the results found from steps b and c with a message describing what they are
 
-(Your pseudocode here)
+a. print i = 1 to 5
+b. sum = sum + i 
+average = sum /5
+C. if else statement if the number is smaller then the smallest number then = min 
+if else statment if number is larger than the largest number = max
+d. 
+print("The average is "average", average)
+print("The smallest number is "min", smallest)
+print("The largest number is "max", largest)
 
 -- END --
